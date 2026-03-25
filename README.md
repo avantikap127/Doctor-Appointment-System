@@ -47,6 +47,10 @@ A full-stack web application that allows patients to book appointments with doct
 
 ---
 
+## 📸 Screenshots
+
+<img src="assets/Screenshot_2025-10-10_095519.png" alt="Home Page" width="700">
+ 
 ## ⚙️ How It Works
 
 1. Doctor registers → gets a profile
@@ -75,24 +79,6 @@ A full-stack web application that allows patients to book appointments with doct
 
 * Hospital management
 * Doctor-hospital mapping
-
----
-
-## 🔐 Key Functionalities
-
-* Prevents double booking of slots
-* Role-based access (Admin / Doctor / Patient)
-* Dynamic data loading via REST APIs
-* Clean UI with real-time updates
-
----
-
-## 🧠 Project Highlights
-
-* Full-stack architecture
-* REST API integration
-* Entity relationship mapping (User, Doctor, Patient, Slot, Appointment)
-* Handles real-world problems like scheduling and availability
 
 ---
 
@@ -143,6 +129,3 @@ spring.datasource.password=YOUR_PASSWORD
 * Payment integration
 
 ---
-
-
-Give it a star ⭐ on GitHub!
