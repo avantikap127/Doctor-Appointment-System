@@ -49,7 +49,7 @@ A full-stack web application that allows patients to book appointments with doct
 
 ## 📸 Screenshots
 
-<img src="assets/Login.png" alt="Login" width="400" height="700">
+<img src="assets/Login.png" alt="Login" width="700" height="450">
  
 ## ⚙️ How It Works
 
