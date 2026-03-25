@@ -51,7 +51,7 @@ A full-stack web application that allows patients to book appointments with doct
 
 <img src="assets/Register.png" alt="Register" width="500" height="700">
 <img src="assets/Login.png" alt="Login" width="500" height="700">
-<img src="assets/Bookappointment.png" alt="Book_Appointment" width="500" height="700">
+<img src="assets/BookAppointment.png" alt="Book_Appointment" width="500" height="700">
 <img src="assets/Appointment.png" alt="Appointment" width="500" height="700">
 <img src="assets/DoctorDashboard.png" alt="Doctor_Dashboard" width="500" height="700">
 
